@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
         if (id == R.id.action_settings) {
             return true;
         }
+        String caca  = "Hola Mundo";
         String algo  = "Hola Mundo";
         String algodos ="Hola Este es otro mensaje";
 
