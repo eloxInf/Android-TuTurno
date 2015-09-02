@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
         String algodos ="La incidencia se corrigio correctamente";
         String holaMundo ="La incidencia se encuentra correcta";
         String holaMundofff ="La incidencia se encuentra correcta";
+        String holaMundoffrrf ="La incidencia se encuentra correcta";
 
         return super.onOptionsItemSelected(item);
     }
