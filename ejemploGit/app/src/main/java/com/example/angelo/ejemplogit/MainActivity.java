@@ -32,7 +32,8 @@ public class MainActivity extends AppCompatActivity {
             return true;
         }
         String algo  = "Hola Mundo";
-        String algodos ="Hola Este es otro mensaje";
+        String algodos ="La incidencia se corrigio correctamente";
+        String holaMundo ="La incidencia se encuentra correcta";
 
 
         return super.onOptionsItemSelected(item);
