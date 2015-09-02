@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         if (id == R.id.action_settings) {
             return true;
     }
-        int numero2 = 1;
+        int numerxo2 = 1;
         String algo  = "Hola Mundo";
         String algodos ="La incidencia se corrigio correctamente";
         String holaMundo ="La incidencia se encuentra correcta";
