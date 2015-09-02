@@ -38,6 +38,9 @@ public class MainActivity extends AppCompatActivity {
         String holaMundofff ="La incidencia se encuentra correcta";
         String holaMundoffrrf ="La incidencia se encuentra correcta";
         int numero = 1;
+        int numerodos = 3;
+        int numerodosf = 3;
+        int numerodosg = 3;
         return super.onOptionsItemSelected(item);
     }
 }
