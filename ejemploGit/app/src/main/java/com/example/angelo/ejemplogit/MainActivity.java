@@ -30,13 +30,13 @@ public class MainActivity extends AppCompatActivity {
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
             return true;
-        }
+    }
         String algo  = "Hola Mundo";
         String algodos ="La incidencia se corrigio correctamente";
         String holaMundo ="La incidencia se encuentra correcta";
         String holaMundofff ="La incidencia se encuentra correcta";
         String holaMundoffrrf ="La incidencia se encuentra correcta";
-
+        int numero = 1;
         return super.onOptionsItemSelected(item);
     }
 }
