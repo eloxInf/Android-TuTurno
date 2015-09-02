@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
             return true;
         }
         String algo  = "Hola Mundo";
-        String algodos ="Hola Este es otro mensajessss";
+        String algodos ="Hola Este es otro mensaje";
 
 
         return super.onOptionsItemSelected(item);
