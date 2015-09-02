@@ -31,10 +31,11 @@ public class MainActivity extends AppCompatActivity {
         if (id == R.id.action_settings) {
             return true;
     }
+        int numerxo23 = 1;
         int numerxo2 = 1;
         String algo  = "Hola Mundo";
-        String algodos ="La incidencia se corrigio correctamente";
-        String holaMundo ="La incidencia se encuentra correcta";
+        String algodoss ="La incidencia se corrigio correctamente";
+        String holaMundos ="La incidencia se encuentra correcta";
         String holaMundofff ="La incidencia se encuentra correcta";
         String holaMundoffrrf ="La incidencia se encuentra correcta";
         int numero = 1;
