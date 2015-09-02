@@ -1,0 +1,9 @@
+diff a/ejemploGit/app/src/main/java/com/example/angelo/ejemplogit/MainActivity.java b/ejemploGit/app/src/main/java/com/example/angelo/ejemplogit/MainActivity.java	(rejected hunks)
+@@ -31,6 +31,7 @@
+         if (id == R.id.action_settings) {
+             return true;
+         }
++        String caca  = "Hola Mundo";
+         String algo  = "Hola Mundo";
+         String algodos ="Hola Este es otro mensaje";
+ 
