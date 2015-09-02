@@ -32,9 +32,9 @@ public class MainActivity extends AppCompatActivity {
             return true;
     }
         int numerxo2 = 1;
-        String algo  = "Hola Mundo";
-        String algodos ="La incidencia se corrigio correctamente";
-        String holaMundo ="La incidencia se encuentra correcta";
+        String algox  = "Hola Mundo";
+        String algodosx ="La incidencia se corrigio correctamente";
+        String holaMundox ="La incidencia se encuentra correcta";
         String holaMundofff ="La incidencia se encuentra correcta";
         String holaMundoffrrf ="La incidencia se encuentra correcta";
         int numero = 1;
